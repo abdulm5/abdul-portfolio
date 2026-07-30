@@ -1,6 +1,6 @@
 const experiences = [
   {
-    years: "May 2026 — present",
+    years: "May 2026 — August 2026",
     title: "Software Engineering Intern",
     place: "Anketa · Atlanta, GA",
     description:
